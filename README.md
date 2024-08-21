@@ -25,6 +25,7 @@
 
 
 ## If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+## If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
     After reviewing my work, I realize that improvements could be made to the diagrams as well as using qualitative and 
     quantitative examples to support my recommendations and analysis. The diagrams could ahve been much more 
