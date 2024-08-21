@@ -7,7 +7,7 @@ For this course, you will be submitting one portion of each project into the Git
 
 You will also reflect on the work that you have done in these projects. Reflecting is a valuable skill to cement your learning. It also will help add context to refresh your memory when you use your portfolio in the future. Update the README file in your repository and include your answers to each of the questions below. You could include the questions and write a few sentences in response to each one, or you could write a paragraph or two weaving together all of your answers.
 
-    Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
     DriverPass
     System type is a web application
@@ -16,7 +16,7 @@ You will also reflect on the work that you have done in these projects. Reflecti
     Used by the business to track user information, provide content, maintain schedule, accept payments
 
 
-    What did you do particularly well?
+What did you do particularly well?
 
     I did well with
     Analyzing the needs of the business, students, and other users
@@ -24,18 +24,18 @@ You will also reflect on the work that you have done in these projects. Reflecti
     Made strong recommendations to meet technical requirements
 
 
-    If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
     After reviewing my work, I realize that improvements could be made to the diagrams as well as using qualitative and quantitative examples to support my recommendations and analysis.
 
 
-    How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
     Interpreted user's needs by
     Reviewing interview transcripts from meetings with business owner, and other key stakeholders
     Follow best practices for security, scalability, maintainability, etc.
 
-    How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
     My approach
     Gather requirements and information from key stakeholders
