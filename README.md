@@ -24,7 +24,7 @@ I excelled in several key areas during this project, including:
 
 - **Comprehensive Needs Analysis:** Accurately identified and documented the functional and non-functional requirements of the system, considering the needs of students, instructors, and the business.
 - **Technical Recommendations:** Provided well-considered technical recommendations that aligned with the system's requirements for security, scalability, and maintainability.
-- **Stakeholder Engagement:** Effectively communicated with stakeholders to ensure that the design met their expectations and business objectives.
+- **Stakeholder Commitment:** Effectively translated stakeholders needs to ensure that the design met their expectations and business objectives.
 
 ---
 
